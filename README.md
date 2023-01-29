@@ -2,6 +2,8 @@
 
 ## Using CRUD technique using multiple MVC models.
 
+## Project is a result of a challenge from Le Wagon Bootcamp.
+
 To run the app:
 
 ```bash
